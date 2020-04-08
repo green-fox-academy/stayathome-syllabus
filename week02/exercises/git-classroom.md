@@ -43,6 +43,7 @@ Open the `README.md` file
 
 - Add your first name and commit one with a meaningful commit message like: _Add first name_
 - Do the same with your last name
+- Do not use special characters, just the English alphabet
 
 ### Check it
 
